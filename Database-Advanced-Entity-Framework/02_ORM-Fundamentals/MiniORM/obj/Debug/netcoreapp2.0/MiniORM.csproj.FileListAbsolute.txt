@@ -1,0 +1,9 @@
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojResolveAssemblyReference.cache
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+D:\SoftUni\03. C# DB-Fundamentals\Database-Advanced-Entity-Framework\02_ORM-Fundamentals\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
